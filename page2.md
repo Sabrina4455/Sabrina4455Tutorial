@@ -19,4 +19,4 @@ Vector images use many different formats such as:
 
 ![Formats](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/06/Vector-Files_File-Formats.jpg) 
 
-
+[Homepage](README.md) [Page 1](page1.md) [Page 2](page2.md) [Page 3](page3.md) [Page 4](page4.md) [Page 5](page5.md) [Page 6](page6.md) [Page 7](page7.md)
