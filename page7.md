@@ -2,4 +2,4 @@
 
 Vector Images are primarily used in the graphic and print design industry. This is because they produce professional looking branding and don't lose quality when they are resized as a Bitmapped Image would. Vector Images can be used for sign making, logos, embroidery, advertising, apps, merchandise, magazines, promotions, fonts, animations, paper printing, and any general graphic design work. They also don’t take up a lot of space when stored on your computer because they’re made up of points instead of pixels. Overall, vector images should be used over Bitmapped Images if you have an image that you will be used at different sizes, the primary focus isn't realism, and want to produce that image at a high quality level. Vector images are better for images that consist of a few areas of solid color and Bitmapped Images are better for images that need to have a wide range of color gradations such as photographs. 
 
-
+![Vector vs Bitmapped](https://www.uptownlogodesign.com/blog/wp-content/uploads/2018/09/vector-raster.jpg)
