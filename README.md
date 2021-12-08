@@ -1,5 +1,4 @@
-# Vector Images 
-# By: Sabrina Broadway
+# Vector Images By: Sabrina Broadway
 
 ## What Are Vector Images Used For?
 [Page 1](page1.md)
