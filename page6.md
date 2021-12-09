@@ -1,4 +1,4 @@
-# How to create a Bitmapped Image in Adobe Photoshop 
+# How to create a bitmapped image in Adobe Photoshop 
 
 In this video, I created two different bitmapped images out of a triangle using Adobe Photoshop. The two different sizes represent how bitmapped images lose their quality when scaled compared to vector images that maintain their quality. I zoomed in to show how bitmapped images are made from pixels instead of a mathematical equation that vector images are made from which gives them their blurry low quality look along the edges.
 
