@@ -1,4 +1,5 @@
-# Vector Images By: Sabrina Broadway
+# Title: Vector Images 
+# Author: Sabrina Broadway
 
 * The purpose of this tutorial is to explain the concept of vector images. Vector images compared to bitmapped images will be discussed along with how to create your own vector image or bitmapped image. This tutorial will also explain the advantages and disadvantages of vector images and when to use them over bitmapped images.
  
