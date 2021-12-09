@@ -1,6 +1,6 @@
-# How to create a Vector Image in Adobe Illustrator 
+# How To Create A Vector Image In Adobe Illustrator 
 
-In this video, I created two different Vector Images out of a star in Adobe Illustrator. The two different sizes represent how Vector Images can be scaled and still maintain their quality. I zoomed in to show how Vector Images are made from a mathmatical equation instead of pixels which gives them their smooth high quality look along the edges. 
+In this video, I created two different vector images out of a star in Adobe Illustrator. The two different sizes represent how vector images can be scaled and still maintain their quality. I zoomed in to show how vector images are made from a mathematical equation instead of pixels which gives them their smooth high quality look along the edges. 
 
 [Vector Image Tutorial](https://vimeo.com/654331911)
 
