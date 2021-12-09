@@ -4,23 +4,23 @@
  
 * The target audience of this tutorial is anyone who is interested in learning more about what vector images are, such as a student who is interested in becoming a graphic designer or other career that uses vector images.
 
-## What Are Vector Images Used For?
+## What are vector images used for?
 [Page 1](page1.md)
 
-## Vector Images VS Bitmapped Images 
+## Vector images vs bitmapped images 
 [Page 2](page2.md)
 
-## Advantages And Disadvantages Of Vector Images
+## Advantages and disadvantages of vector images
 [Page 3](page3.md)
 
-## Examples Of Vector Images
+## Examples of vector images
 [Page 4](page4.md)
 
-## How To Create a Vector Image In Adobe Illustrator
+## How to create a vector image in Adobe Illustrator
 [Page 5](page5.md)
 
-## How To Create A Bitmapped Image In Adobe Photoshop
+## How to create a bitmapped image in Adobe Photoshop
 [Page 6](page6.md)
 
-## When To Use Vector Images over Bitmapped Images
+## When to use vector images over bitmapped images
 [Page 7](page7.md)
