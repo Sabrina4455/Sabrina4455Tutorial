@@ -1,4 +1,4 @@
-# Advantages of Vector Images
+# Advantages Of Vector Images
 
 There are many advantages of using vector images:
 
@@ -15,7 +15,7 @@ not blocky.
 
 ![Advantages](https://crjdesign.co.uk/wp-content/uploads/2018/11/vectorvsbitmap.jpg) 
 
-# Disadvantages of Vector Images 
+# Disadvantages Of Vector Images 
 
 There are many disadvantages of using vector images:
 
