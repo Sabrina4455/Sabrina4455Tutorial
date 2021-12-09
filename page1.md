@@ -1,11 +1,11 @@
-# What Are Vector Images?
+# What are vector images?
 Vector images are digital shapes made of lines and curves (paths) to create an image based on a mathematical equation.
 
 **Here is the link to learn more about vector images :**
 
 [Vector Images](https://youtu.be/ovZxjAtGDFo)
 
-# What Are Vector Images Used For?
+# What are vector images used for?
 
 Vector images are used by businesses primarily for advertising and marketing purposes. Since they can be scaled to any size and remain at a high quality resolution, vector
 images are great for logos, websites, apps, animation, merchandise, and fonts. It is ideal for both printing and web images.
