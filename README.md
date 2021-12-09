@@ -1,8 +1,8 @@
 # Vector Images By: Sabrina Broadway
 
-* The purpose of this tutorial is to explain the concept of Vector Images. Vector Images compared to Bitmapped Images will be discussed along with how to create your own Vector Image or Bitmapped Image. This tutorial will also explain the advantages and disadvantages of Vector Images and when to use them over Bitmapped Images.
+* The purpose of this tutorial is to explain the concept of vector images. Vector images compared to Bitmapped Images will be discussed along with how to create your own vector image or bitmapped image. This tutorial will also explain the advantages and disadvantages of vector images and when to use them over bitmapped images.
  
-* The target audience of this tutorial is anyone who is interested in learning more about what Vector Images are, such as a student who is interested in becoming a graphic designer or other career that uses Vector Images.
+* The target audience of this tutorial is anyone who is interested in learning more about what vector images are, such as a student who is interested in becoming a graphic designer or other career that uses vector images.
 
 ## What Are Vector Images Used For?
 [Page 1](page1.md)
