@@ -1,4 +1,4 @@
-# Vector V.S. Bitmapped Images
+# Vector vs bitmapped images
 
 Unlike vector images, bitmapped images are made up of pixels. When a bitmapped image is resized, it loses quality. This will make the resolution of the image look fuzzy since it’s not created from a mathematical equation like a vector image. Vector images are resolution independent and provide high resolution results.   
 
@@ -8,7 +8,7 @@ Vector image zoomed:
 Bitmapped image zoomed:
 ![Bitmapped](https://user-images.githubusercontent.com/89413296/145123363-8fc09825-e561-4618-a93a-8eb3c1f260e9.PNG)
 
-# Vector Image Formats 
+# Vector image formats 
 
 Vector images use many different formats such as:
 
