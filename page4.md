@@ -1,4 +1,4 @@
-# Examples of Vector Images:
+# Examples Of Vector Images:
 
 ![Vector](https://cdn-images-1.medium.com/max/1600/1*p9bRsKUSa7u4PMdEPYoaRg.png)
 
